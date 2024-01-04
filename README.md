@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reknan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="reknan-dev" /> </p>
 
-- 🌱 I’m currently learning **Java, angular**
+- 🌱 I’m currently learning **Java, Angular**
 
 - 👨‍💻 All of my projects are available at [benedettocaiazzo-dev-portfolio.netlify.app/](benedettocaiazzo-dev-portfolio.netlify.app/)
 
-- 💬 Ask me about **react, node**
+- 💬 Ask me about **React, Node**
 
 - 📫 How to reach me **benedettocaiazzo8409@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link](https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
