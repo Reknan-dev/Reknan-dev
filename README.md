@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **benedettocaiazzo8409@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1I_dHnpFlgec8lDMujV1jDPamvrsDsdX4?hl=it](https://drive.google.com/drive/folders/1I_dHnpFlgec8lDMujV1jDPamvrsDsdX4?hl=it)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link](https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
