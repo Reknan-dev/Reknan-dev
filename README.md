@@ -3,15 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reknan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="reknan-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reknan-dev" alt="reknan-dev" /></a> </p>
+- 🌱 I’m currently learning **Java, angular**
 
-- 🌱 I’m currently learning **Java**
+- 👨‍💻 All of my projects are available at [benedettocaiazzo-dev-portfolio.netlify.app/](benedettocaiazzo-dev-portfolio.netlify.app/)
+
+- 💬 Ask me about **react, node**
+
+- 📫 How to reach me **benedettocaiazzo8409@hotmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1I_dHnpFlgec8lDMujV1jDPamvrsDsdX4?hl=it](https://drive.google.com/drive/folders/1I_dHnpFlgec8lDMujV1jDPamvrsDsdX4?hl=it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/benedettocaiazzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/benedettocaiazzo/" height="30" width="40" /></a>
 <a href="https://fb.com/www.facebook.com/benedetto.caiazzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/benedetto.caiazzo" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/bene_detto_bene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/bene_detto_bene/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bene_detto_bene/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bene_detto_bene/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
