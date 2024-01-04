@@ -1,7 +1,9 @@
 ![Header](./your-header-image-name.png)
+![github-header-image](https://github.com/Reknan-dev/Reknan-dev/assets/124897691/79509694-25bf-4a7b-a333-a0a36096fe2b)
 
 
-<h3 align="center">A passionate Jr Full Stack Developer from Italy</h3>
+<h3 align="center">A passionate Jr Full Stack Developer from Italy</h3>!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reknan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="reknan-dev" /> </p>
 
