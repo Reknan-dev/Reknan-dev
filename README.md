@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Benedetto Caiazzo</h1>
+![Header](./your-header-image-name.png)
+
+
 <h3 align="center">A passionate Jr Full Stack Developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reknan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="reknan-dev" /> </p>
