@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Angular**
 
-- 👨‍💻 All of my projects are available at [benedettocaiazzo-dev-portfolio.netlify.app/](benedettocaiazzo-dev-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My website](benedettocaiazzo-dev-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Node**
 
