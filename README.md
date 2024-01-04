@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React, Node**
 
-- 📫 How to reach me **benedettocaiazzo8409@hotmail.com**
+- 📫 How to reach me: [Mail](benedettocaiazzo8409@hotmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1VVpWmXvS5-y51X34kH0HZxk6CLMrOAsQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
