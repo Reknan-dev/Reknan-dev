@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 ![github-header-image](https://github.com/Reknan-dev/Reknan-dev/assets/124897691/79509694-25bf-4a7b-a333-a0a36096fe2b)
 
 
