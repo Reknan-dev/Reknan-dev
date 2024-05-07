@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reknan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="reknan-dev" /> </p>
 
-- 🌱 I’m currently learning **Java, Angular**
+- 🌱 I’m currently learning **C#, .NET**
 
 - 👨‍💻 All of my projects are available at [My website](benedettocaiazzo-dev-portfolio.netlify.app/)
 
