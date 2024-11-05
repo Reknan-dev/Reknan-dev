@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [My website](benedettocaiazzo-dev-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, .Net**
 
 - 📫 How to reach me: [Mail](mailto:benedettocaiazzo8409@hotmail.com)
 
